@@ -1,0 +1,7 @@
+*.pp.c
+*.pp.h
+*.c.av/
+*.h.av/
+*.o
+a.out
+whole_program.av/
